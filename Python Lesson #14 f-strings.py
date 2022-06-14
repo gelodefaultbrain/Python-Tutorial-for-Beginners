@@ -15,3 +15,4 @@ string_var = "Subscribe! :D"
 output = f"The value of bool_var is {bool_var} The value of int_var is {int_var} {float_var} {string_var}"
 
 print(output)
+print("Hello sir!")
